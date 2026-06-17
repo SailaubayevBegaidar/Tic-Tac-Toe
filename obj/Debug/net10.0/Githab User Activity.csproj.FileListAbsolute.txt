@@ -1,0 +1,14 @@
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\bin\Debug\net10.0\Githab User Activity.exe
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\bin\Debug\net10.0\Githab User Activity.deps.json
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\bin\Debug\net10.0\Githab User Activity.runtimeconfig.json
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\bin\Debug\net10.0\Githab User Activity.dll
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\bin\Debug\net10.0\Githab User Activity.pdb
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\obj\Debug\net10.0\Githab User Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\obj\Debug\net10.0\Githab User Activity.AssemblyInfoInputs.cache
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\obj\Debug\net10.0\Githab User Activity.AssemblyInfo.cs
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\obj\Debug\net10.0\Githab User Activity.csproj.CoreCompileInputs.cache
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\obj\Debug\net10.0\Githab User Activity.dll
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\obj\Debug\net10.0\refint\Githab User Activity.dll
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\obj\Debug\net10.0\Githab User Activity.pdb
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\obj\Debug\net10.0\Githab User Activity.genruntimeconfig.cache
+C:\Users\saila\source\repos\Githab User Activity\Githab User Activity\obj\Debug\net10.0\ref\Githab User Activity.dll

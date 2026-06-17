@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Githab User Activity/1.0.0": {
+        "runtime": {
+          "Githab User Activity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Githab User Activity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
